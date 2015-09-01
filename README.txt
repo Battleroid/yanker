@@ -5,6 +5,8 @@ Basic multithreaded console frontend for youtube-dl.
 # Usage
 
 ```
+Yanker
+
 Usage:
-	yanker [threads] Number of threads to use for grabbing videos.
+    yanker [--threads=<tnum>]
 ```
