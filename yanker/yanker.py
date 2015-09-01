@@ -4,7 +4,7 @@ Yanker
 Usage:
     yanker [--threads=<tnum>]
 """
-__version__ = '1.0'
+__version__ = '1.0.1'
 
 import Queue
 import threading
